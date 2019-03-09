@@ -14,7 +14,7 @@ print(users_json)
 
 # print(f.headers)
 
-# print(f.userDetails("medication_blip"))
+# print(f.userDetails(USER_ID_HERE))
 
 # print(f.inviteUser("jack+test@das42.com", "Jack", "Bonat", "ReadOnly"))
 
