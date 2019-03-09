@@ -1,4 +1,5 @@
-__init.pyc
-__pychache__/
+__init__.pyc
+__pycache__/
 base.py
-
+wrapper/__pychache__/
+.DS_Store
